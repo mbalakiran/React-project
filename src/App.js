@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+import './userdetails.css'
 import Home from './Home';
 import {BrowserRouter, Route} from "react-router-dom";
 import UserDetails from "./UserDetails";
